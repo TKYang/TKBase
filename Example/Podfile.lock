@@ -1,0 +1,16 @@
+PODS:
+  - TKBase (0.1.0)
+
+DEPENDENCIES:
+  - TKBase (from `../`)
+
+EXTERNAL SOURCES:
+  TKBase:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TKBase: 8067c864cc599aa3b74dcd4c5c8dc625149a5de4
+
+PODFILE CHECKSUM: 235726a6b72613c244b1a2fc3dcfb1688a1a358a
+
+COCOAPODS: 1.11.2

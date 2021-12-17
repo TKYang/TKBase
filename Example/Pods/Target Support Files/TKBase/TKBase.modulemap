@@ -1,0 +1,6 @@
+framework module TKBase {
+  umbrella header "TKBase-umbrella.h"
+
+  export *
+  module * { export * }
+}
